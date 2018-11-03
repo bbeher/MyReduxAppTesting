@@ -1,2 +1,0 @@
-# MyReduxAppTesting
-Created with CodeSandbox
